@@ -1,1 +1,1 @@
-# immo60
+Laravel view composer
